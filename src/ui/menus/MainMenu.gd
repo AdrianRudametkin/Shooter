@@ -1,6 +1,6 @@
 extends Control
 
-var game_title = "Title of the game"
+var game_title = "Angular Assault"
 
 
 # Scene nodes

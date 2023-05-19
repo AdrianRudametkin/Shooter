@@ -223,7 +223,7 @@ anchor_bottom = 0.178
 margin_top = 0.279999
 margin_bottom = -0.240005
 custom_fonts/font = ExtResource( 5 )
-text = "Title of the game"
+text = "Angular Assault"
 align = 1
 valign = 1
 
